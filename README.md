@@ -15,6 +15,13 @@ https://book.getfoundry.sh/
 
 ## Usage
 
+### Install OZ lib
+
+```shell
+forge install OpenZeppelin/openzeppelin-contracts-upgradeable --no-commit
+forge install OpenZeppelin/openzeppelin-contracts --no-commit
+```
+
 ### Build
 
 ```shell
